@@ -3,7 +3,7 @@ MitraVishwa
 
 A theme for Anchor CMS using Bootstrap CSS & Ancora
 
-[Demo Site](http://test.shankarsblog.com)
+[Demo Site](test.shankarsblog.com)
 
 Custom Site Variables
 <ol>
