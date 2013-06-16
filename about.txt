@@ -1,0 +1,6 @@
+Theme name:    MitraVishwa
+Description:   Baseline Bootstrap Theme
+Author name:   Shankara Narayanan
+Author site:   http://www.shankarsblog.com
+License:       MIT License
+License URI:   http://opensource.org/licenses/MIT
